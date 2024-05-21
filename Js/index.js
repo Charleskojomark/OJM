@@ -44,7 +44,7 @@ swiperOne()
    }, 
    breakpoints: {
        568: {
-           slidesPerView: 2,
+           slidesPerView: ,
        }
    }
  });
@@ -78,7 +78,7 @@ function swiperThree() {
    }, 
    breakpoints: {
        568: {
-           slidesPerView: 2,
+           slidesPerView: ,
        }
    }
  });
@@ -140,7 +140,7 @@ let swiperTestimonial = new Swiper(".testimonial_container", {
 //  }, 
  breakpoints: {
      568: {
-         slidesPerView: 2,
+         slidesPerView: ,
      }
  }
 });
