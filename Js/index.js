@@ -42,11 +42,7 @@ swiperOne()
      type:"fraction",
      dynamicBullets: true,
    }, 
-   breakpoints: {
-       568: {
-           slidesPerView: ,
-       }
-   }
+   
  });
 
 }
@@ -76,11 +72,7 @@ function swiperThree() {
      type:"fraction",
      dynamicBullets: true,
    }, 
-   breakpoints: {
-       568: {
-           slidesPerView: ,
-       }
-   }
+   
  });
 
 }
@@ -138,9 +130,5 @@ let swiperTestimonial = new Swiper(".testimonial_container", {
 //    clickable: true, 
 //    dynamicBullets: true,
 //  }, 
- breakpoints: {
-     568: {
-         slidesPerView: ,
-     }
- }
+ 
 });
